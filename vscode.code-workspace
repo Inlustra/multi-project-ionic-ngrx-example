@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "auth"
+		},
+		{
+			"path": "quote-switch"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "auth/node_modules/typescript/lib"
+	}
+}
